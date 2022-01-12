@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T03:34:25.657Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="knd9we6MP4b87aL4fgEq" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T03:40:08.142Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="SEkmrPXXa1csIAfokf_l" version="16.2.4" type="github">
   <diagram id="g-GTH3m1mprbBZ8mFjRG" name="Page-1">
     <mxGraphModel dx="946" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="qfDMOs3huDskI0j0CrZW-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="173" y="320" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qfDMOs3huDskI0j0CrZW-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="qfDMOs3huDskI0j0CrZW-3" value="$$n^u_1$$" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="190" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qfDMOs3huDskI0j0CrZW-7" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -33,11 +33,44 @@
         <mxCell id="FSb0OSq2DILK62HOMhFQ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="359" y="320" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FSb0OSq2DILK62HOMhFQ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="FSb0OSq2DILK62HOMhFQ-3" target="qfDMOs3huDskI0j0CrZW-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="230" />
+              <mxPoint x="80" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FSb0OSq2DILK62HOMhFQ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="FSb0OSq2DILK62HOMhFQ-3" target="FSb0OSq2DILK62HOMhFQ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FSb0OSq2DILK62HOMhFQ-3" value="基于语义意识的新闻编码" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="55" y="240" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="FSb0OSq2DILK62HOMhFQ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="FSb0OSq2DILK62HOMhFQ-4" target="FSb0OSq2DILK62HOMhFQ-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="183" y="230" />
+              <mxPoint x="183" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FSb0OSq2DILK62HOMhFQ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="FSb0OSq2DILK62HOMhFQ-4" target="FSb0OSq2DILK62HOMhFQ-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="230" />
+              <mxPoint x="220" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FSb0OSq2DILK62HOMhFQ-4" value="基于语义意识的新闻编码" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="167" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FSb0OSq2DILK62HOMhFQ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="FSb0OSq2DILK62HOMhFQ-5" target="FSb0OSq2DILK62HOMhFQ-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FSb0OSq2DILK62HOMhFQ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="FSb0OSq2DILK62HOMhFQ-5" target="FSb0OSq2DILK62HOMhFQ-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FSb0OSq2DILK62HOMhFQ-5" value="基于语义意识的新闻编码" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="295" y="240" width="80" height="40" as="geometry" />
@@ -86,19 +119,19 @@
         <mxCell id="FSb0OSq2DILK62HOMhFQ-26" value="$$n^c$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="359" y="320" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FSb0OSq2DILK62HOMhFQ-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FSb0OSq2DILK62HOMhFQ-28" value="$$n^c_1$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="190" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FSb0OSq2DILK62HOMhFQ-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FSb0OSq2DILK62HOMhFQ-29" value="$$n^u_i$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="173" y="190" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FSb0OSq2DILK62HOMhFQ-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FSb0OSq2DILK62HOMhFQ-30" value="$$n^c_i$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="190" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FSb0OSq2DILK62HOMhFQ-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FSb0OSq2DILK62HOMhFQ-31" value="$$n^u_N$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="190" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FSb0OSq2DILK62HOMhFQ-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FSb0OSq2DILK62HOMhFQ-32" value="$$n^c_N$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="190" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
