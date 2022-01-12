@@ -1,26 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T03:03:16.803Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ZFMwUmVDmcT7s5DMgDj-" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T03:06:41.425Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="KPo7sJLlcf9KgCvbMuaE" version="16.2.4" type="github">
   <diagram id="g-GTH3m1mprbBZ8mFjRG" name="Page-1">
     <mxGraphModel dx="946" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qfDMOs3huDskI0j0CrZW-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="320" width="20" height="20" as="geometry" />
+          <mxGeometry x="80" y="320" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qfDMOs3huDskI0j0CrZW-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="320" width="20" height="20" as="geometry" />
+          <mxGeometry x="140" y="320" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qfDMOs3huDskI0j0CrZW-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="320" width="20" height="20" as="geometry" />
+          <mxGeometry x="690" y="230" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qfDMOs3huDskI0j0CrZW-6" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="315" width="60" height="30" as="geometry" />
+          <mxGeometry x="170" y="325" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qfDMOs3huDskI0j0CrZW-7" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="80" y="315" width="60" height="30" as="geometry" />
+          <mxGeometry x="110" y="325" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FSb0OSq2DILK62HOMhFQ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="404" y="320" width="20" height="20" as="geometry" />
+          <mxGeometry x="320" y="320" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FSb0OSq2DILK62HOMhFQ-3" value="基于语义意识的新闻编码" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FSb0OSq2DILK62HOMhFQ-4" value="基于语义意识的新闻编码" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FSb0OSq2DILK62HOMhFQ-5" value="基于语义意识的新闻编码" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FSb0OSq2DILK62HOMhFQ-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="320" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
